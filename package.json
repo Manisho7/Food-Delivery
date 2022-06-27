@@ -1,5 +1,5 @@
 {
-  "homepage":"https://manisho7.github.io/Food-Delivery/",
+  "homepage": "https://manisho7.github.io/Food-Delivery/",
   "name": "react-complete-guide",
   "version": "0.1.0",
   "private": true,
@@ -9,13 +9,12 @@
     "@testing-library/user-event": "^12.5.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-scripts": "4.0.1",
-    "gh-pages": "^4.0.0",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
