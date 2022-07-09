@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Food-Delivery/static/css/main.4d3c2882.css",
-    "main.js": "/Food-Delivery/static/js/main.108121a0.js",
-    "static/media/meals.jpg": "/Food-Delivery/static/media/meals.2971f633fc1382581cbf.jpg",
+    "main.css": "/Food-Delivery/static/css/main.4502169d.css",
+    "main.js": "/Food-Delivery/static/js/main.910a0fe5.js",
+    "static/media/indian-food.jpg": "/Food-Delivery/static/media/indian-food.d7265278b35020185800.jpg",
     "index.html": "/Food-Delivery/index.html",
-    "main.4d3c2882.css.map": "/Food-Delivery/static/css/main.4d3c2882.css.map",
-    "main.108121a0.js.map": "/Food-Delivery/static/js/main.108121a0.js.map"
+    "main.4502169d.css.map": "/Food-Delivery/static/css/main.4502169d.css.map",
+    "main.910a0fe5.js.map": "/Food-Delivery/static/js/main.910a0fe5.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d3c2882.css",
-    "static/js/main.108121a0.js"
+    "static/css/main.4502169d.css",
+    "static/js/main.910a0fe5.js"
   ]
 }
